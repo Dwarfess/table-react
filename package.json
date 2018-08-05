@@ -1,5 +1,5 @@
 {
-  "name": "my-app-react,
+  "name": "my-app-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,12 +20,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --watch",
     "eject": "react-scripts eject"
-  },
-  "devDependencies": {
-//    "babel-jest": "^23.4.2",
-//    "enzyme": "^3.2.0",
-//    "enzyme-adapter-react-15": "^1.0.6",
-//    "enzyme-adapter-react-16": "1.1.1",
-//    "jest": "^23.4.2"
   }
 }
